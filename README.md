@@ -10,8 +10,10 @@ This is useful with the (bash) commands: `tree`, `ls -lR`, `find`.
 
 Compressed files can be downloaded:
 
-* [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz) and   
-* [**SevenSeas.zip**](./data/SevenSeas.tar.gz).
+<font size = +2>
+- [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz) OR   
+- [**SevenSeas.zip**](./data/SevenSeas.tar.gz).
+</font size>
 
 Unarchived directory hierarchy **`SevenSeas`** contains  40 directories in total, organized the following main directories named by narrative of the [sevenseas.html](https://oceanservice.noaa.gov/facts/sevenseas.html) text (*e.g.* "In Greek literature", "In Medieval European literature".)
 
