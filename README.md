@@ -4,9 +4,13 @@ This is a toy dataset to explore directory hierarchy and organization, or findin
 
 This is useful with the (bash) commands: `tree`, `ls -lR`, `find`.
 
-***Data files are empty*** (created with `touch`) and their filename extenstion reflect the text from NOAA page [sevenseas.html](https://oceanservice.noaa.gov/facts/sevenseas.html) which is included in the SevenSeas directory as `sevenseas.txt`.
+***Data files are empty*** (created with `touch`) and their filename extenstion reflect the text from NOAA page [sevenseas.html](https://oceanservice.noaa.gov/facts/sevenseas.html) which is included in the SevenSeas directory as `sevenseas.txt`. (2022/08/01 [archive](http://web.archive.org/web/20220108105026/https://oceanservice.noaa.gov/facts/sevenseas.html).)
 
-Directory `/data` contains the material in native and compressed archives.
+## Data
+
+Compressed files are available in [`./data`](./data) directory as [`SevenSeas.tar.gz`](./data/SevenSeas.tar.gz) and  [`SevenSeas.zip`](./data/SevenSeas.zip).
+
+Directory `./data` contains the material in native and compressed archives.
 
 There are 40 directories in total, organized the following main directories named by narrative of the text (*e.g.* "In Greek literature", "In Medieval European literature".)
 
