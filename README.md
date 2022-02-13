@@ -8,11 +8,17 @@ This is useful with the (bash) commands: `tree`, `ls -lR`, `find`.
 
 ## Data
 
-<font size = +2>
-- [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz) and   
-- [**SevenSeas.zip**](./data/SevenSeas.tar.gz).
-<font size>
-    
+Archives to download:
+
+| Archive link   | Archive format | Unarchive command |
+|-----------------|------------|-----------------------|
+| [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz)|  gzip tar | `tar xvf SevenSeas.tar.gz` |   
+| [**SevenSeas.zip**](./data/SevenSeas.tar.gz) | Zip  | `unzip SevenSeas.zip` |
+
+*Note*: most computer may offer a GUI version instead, then just "double click". (gzip and Zip are 2 different formats.)
+
+## Hierarchy
+
 Unarchived directory hierarchy **`SevenSeas`** contains  40 directories in total, organized the following main directories named by narrative of the [sevenseas.html](https://oceanservice.noaa.gov/facts/sevenseas.html) text (*e.g.* "In Greek literature", "In Medieval European literature".)
 
 ```
