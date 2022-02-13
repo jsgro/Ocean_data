@@ -8,11 +8,12 @@ This is useful with the (bash) commands: `tree`, `ls -lR`, `find`.
 
 ## Data
 
-Compressed files are available in [`./data`](./data) directory as [`SevenSeas.tar.gz`](./data/SevenSeas.tar.gz) and  [`SevenSeas.zip`](./data/SevenSeas.zip).
+Compressed files can be downloaded:
 
-Directory `./data` contains the material in native and compressed archives.
+* [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz) and   
+* [**SevenSeas.zip**](./data/SevenSeas.tar.gz).
 
-There are 40 directories in total, organized the following main directories named by narrative of the text (*e.g.* "In Greek literature", "In Medieval European literature".)
+Unarchived directory hierarchy **`SevenSeas`** contains  40 directories in total, organized the following main directories named by narrative of the [sevenseas.html](https://oceanservice.noaa.gov/facts/sevenseas.html) text (*e.g.* "In Greek literature", "In Medieval European literature".)
 
 ```
 .
