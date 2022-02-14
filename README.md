@@ -12,7 +12,7 @@ Archives to download:
 
 | Archive link   | Archive format | Unarchive command |
 |-----------------|------------|-----------------------|
-| [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz)|  gzip tar | `tar xvf SevenSeas.tar.gz` |   
+| [**SevenSeas.tar.gz**](./data/SevenSeas.tar.gz)|  gzip tar | `tar xzvf SevenSeas.tar.gz` |   
 | [**SevenSeas.zip**](./data/SevenSeas.tar.gz) | Zip  | `unzip SevenSeas.zip` |
 
 *Note*: most computer may offer a GUI version instead, then just "double click". (gzip and Zip are 2 different formats.)
